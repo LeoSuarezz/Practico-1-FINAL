@@ -1,0 +1,57 @@
+C:\Users\menge\Downloads\Practico 1\Practico 1\bin\Debug\Practico 1.exe.config
+C:\Users\menge\Downloads\Practico 1\Practico 1\bin\Debug\Practico 1.exe
+C:\Users\menge\Downloads\Practico 1\Practico 1\bin\Debug\Practico 1.pdb
+C:\Users\menge\Downloads\Practico 1\Practico 1\obj\Debug\Practico 1.csproj.AssemblyReference.cache
+C:\Users\menge\Downloads\Practico 1\Practico 1\obj\Debug\Practico 1.csproj.CoreCompileInputs.cache
+C:\Users\menge\Downloads\Practico 1\Practico 1\obj\Debug\Practico 1.exe
+C:\Users\menge\Downloads\Practico 1\Practico 1\obj\Debug\Practico 1.pdb
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico 1\Practico 1\Practico 1\bin\Debug\Practico 1.exe.config
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico 1\Practico 1\Practico 1\bin\Debug\Practico 1.exe
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico 1\Practico 1\Practico 1\bin\Debug\Practico 1.pdb
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico 1\Practico 1\Practico 1\obj\Debug\Practico 1.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico 1\Practico 1\Practico 1\obj\Debug\Practico 1.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico 1\Practico 1\Practico 1\obj\Debug\Practico 1.exe
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico 1\Practico 1\Practico 1\obj\Debug\Practico 1.pdb
+C:\Users\Alumno\Desktop\Practico 1 version martes\Practico 1\Practico 1\bin\Debug\Practico 1.exe.config
+C:\Users\Alumno\Desktop\Practico 1 version martes\Practico 1\Practico 1\bin\Debug\Practico 1.exe
+C:\Users\Alumno\Desktop\Practico 1 version martes\Practico 1\Practico 1\bin\Debug\Practico 1.pdb
+C:\Users\Alumno\Desktop\Practico 1 version martes\Practico 1\Practico 1\obj\Debug\Practico 1.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Practico 1 version martes\Practico 1\Practico 1\obj\Debug\Practico 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Desktop\Practico 1 version martes\Practico 1\Practico 1\obj\Debug\Practico 1.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Practico 1 version martes\Practico 1\Practico 1\obj\Debug\Practico 1.exe
+C:\Users\Alumno\Desktop\Practico 1 version martes\Practico 1\Practico 1\obj\Debug\Practico 1.pdb
+C:\Users\menge\Downloads\Practico 1 version martes\Practico 1\Practico 1\bin\Debug\Practico 1.exe.config
+C:\Users\menge\Downloads\Practico 1 version martes\Practico 1\Practico 1\bin\Debug\Practico 1.exe
+C:\Users\menge\Downloads\Practico 1 version martes\Practico 1\Practico 1\bin\Debug\Practico 1.pdb
+C:\Users\menge\Downloads\Practico 1 version martes\Practico 1\Practico 1\obj\Debug\Practico 1.csproj.AssemblyReference.cache
+C:\Users\menge\Downloads\Practico 1 version martes\Practico 1\Practico 1\obj\Debug\Practico 1.csproj.CoreCompileInputs.cache
+C:\Users\menge\Downloads\Practico 1 version martes\Practico 1\Practico 1\obj\Debug\Practico 1.exe
+C:\Users\menge\Downloads\Practico 1 version martes\Practico 1\Practico 1\obj\Debug\Practico 1.pdb
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico 1\Practico 1 version martes\Practico 1\Practico 1\bin\Debug\Practico 1.exe.config
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico 1\Practico 1 version martes\Practico 1\Practico 1\bin\Debug\Practico 1.exe
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico 1\Practico 1 version martes\Practico 1\Practico 1\bin\Debug\Practico 1.pdb
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico 1\Practico 1 version martes\Practico 1\Practico 1\obj\Debug\Practico 1.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico 1\Practico 1 version martes\Practico 1\Practico 1\obj\Debug\Practico 1.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico 1\Practico 1 version martes\Practico 1\Practico 1\obj\Debug\Practico 1.exe
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico 1\Practico 1 version martes\Practico 1\Practico 1\obj\Debug\Practico 1.pdb
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico 1\Practico 1 version casi final Domingo noche\Practico 1\Practico 1\bin\Debug\Practico 1.exe.config
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico 1\Practico 1 version casi final Domingo noche\Practico 1\Practico 1\bin\Debug\Practico 1.exe
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico 1\Practico 1 version casi final Domingo noche\Practico 1\Practico 1\bin\Debug\Practico 1.pdb
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico 1\Practico 1 version casi final Domingo noche\Practico 1\Practico 1\obj\Debug\Practico 1.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico 1\Practico 1 version casi final Domingo noche\Practico 1\Practico 1\obj\Debug\Practico 1.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico 1\Practico 1 version casi final Domingo noche\Practico 1\Practico 1\obj\Debug\Practico 1.exe
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico 1\Practico 1 version casi final Domingo noche\Practico 1\Practico 1\obj\Debug\Practico 1.pdb
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico 1\Practico 1 casi final\Practico 1\Practico 1\bin\Debug\Practico 1.exe.config
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico 1\Practico 1 casi final\Practico 1\Practico 1\bin\Debug\Practico 1.exe
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico 1\Practico 1 casi final\Practico 1\Practico 1\bin\Debug\Practico 1.pdb
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico 1\Practico 1 casi final\Practico 1\Practico 1\obj\Debug\Practico 1.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico 1\Practico 1 casi final\Practico 1\Practico 1\obj\Debug\Practico 1.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico 1\Practico 1 casi final\Practico 1\Practico 1\obj\Debug\Practico 1.exe
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico 1\Practico 1 casi final\Practico 1\Practico 1\obj\Debug\Practico 1.pdb
+C:\Users\menge\Downloads\Practico 1 casi final\Practico 1\Practico 1\bin\Debug\Practico 1.exe.config
+C:\Users\menge\Downloads\Practico 1 casi final\Practico 1\Practico 1\bin\Debug\Practico 1.exe
+C:\Users\menge\Downloads\Practico 1 casi final\Practico 1\Practico 1\bin\Debug\Practico 1.pdb
+C:\Users\menge\Downloads\Practico 1 casi final\Practico 1\Practico 1\obj\Debug\Practico 1.csproj.AssemblyReference.cache
+C:\Users\menge\Downloads\Practico 1 casi final\Practico 1\Practico 1\obj\Debug\Practico 1.csproj.CoreCompileInputs.cache
+C:\Users\menge\Downloads\Practico 1 casi final\Practico 1\Practico 1\obj\Debug\Practico 1.exe
+C:\Users\menge\Downloads\Practico 1 casi final\Practico 1\Practico 1\obj\Debug\Practico 1.pdb
